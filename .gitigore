@@ -184,3 +184,5 @@ Temporary Items
 .next/
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,django,nextjs
+
+.DS_Store
